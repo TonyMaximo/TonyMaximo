@@ -3,6 +3,6 @@
 - 🔭 Eu atualmente estou trabalhando como full-stack ...
 
   <div> 
-    <a style="background: blue; color: white;" href="https://tony-cnt.000webhostapp.com" target="_blank">ir</a>
+    <a style="background: blue; color: white;" href="https://tony-cnt.000webhostapp.com" rel="_blank">ir</a>
   </div>
 
